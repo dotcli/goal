@@ -15,3 +15,7 @@ Bright colors. Pastel. Dream pop. Future bass, vaporwave. Japan kawaii culture. 
 ## Organica
 
 Organic life forms. Moss. Flower. Ernst Haeckel. Worms.
+
+## Mathematica
+
+Graphs and geometries based on Mathematical formulas. Superformula, fractal, harmonograph, Lorenz Attractor.
