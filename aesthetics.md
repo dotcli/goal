@@ -14,7 +14,7 @@ Bright colors. Pastel. Dream pop. Future bass, vaporwave. Japan kawaii culture. 
 
 ## Organica
 
-Organic life forms. Moss. Flower. Ernst Haeckel. Worms.
+Organic life forms. Moss. Flower. Ernst Haeckel. Worms. [Fluid](http://jamie-wong.com/2016/08/05/webgl-fluid-simulation/).
 
 ## Mathematica
 
